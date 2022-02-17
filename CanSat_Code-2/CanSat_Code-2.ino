@@ -42,7 +42,7 @@ void setup() {
   Serial.println();
   Serial.println("Begin");
 
-  //InitSD();
+  InitSD();
 
   //InitBMP();
 
